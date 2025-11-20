@@ -1,0 +1,45 @@
+body {
+  background-color: #ff3838;
+  box-shadow: #38ffd7 0px 0px 20px 10px;
+  background-blend-mode: screen;
+  background-position: 0% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+#qula {
+  background-color: #fa9b0b;
+  padding: 20px;
+
+  border-radius: 50px;
+  box-shadow: 0 4px 8px rgba(253, 9, 9, 0.1);
+  background-position: 0% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+div#qula h1 {
+  font-family: "Arial", sans-serif;
+  font-size: 48px;
+  color: #ffffff;
+  text-align: center;
+  margin: 0;
+}
+
+minutes {
+  background-color: #38ff67;
+  border-radius: 100px;
+}
+hours {
+  background-color: #38ffd7;
+  border-radius: 100px;
+}
+
+aa {
+  background-color: #ff38d4;
+  border-radius: 100px;
+}
